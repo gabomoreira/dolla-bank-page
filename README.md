@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/dolla-bank-page?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/dolla-bank-page?style=for-the-badge)
 
-<img src="img-project.png" alt="foto da Lista de Tarefas">
+<img src="img-project.png" alt="foto do banco virtual">
 
 > Uma aplicação web responsiva de um banco virtual.
 
